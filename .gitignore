@@ -1,0 +1,30 @@
+# Data files
+*.mat
+*.csv
+*.txt
+*.xlsx
+
+# Media files
+*.MOV
+*.mov
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.mlx.autosave
+
+# Arduino / editor files
+.theia/
+.vscode/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Logs
+*.log
