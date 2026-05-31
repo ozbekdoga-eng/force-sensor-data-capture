@@ -28,3 +28,22 @@ __MACOSX/
 
 # Logs
 *.log
+
+# Allow selected documentation figures
+!figures/
+!figures/.gitkeep
+!figures/axial_compression_setup.jpg
+!figures/axial_compression_setup.jpeg
+!figures/axial_compression_setup.png
+
+# Allow 3D printable design files
+!3d_printable_parts/
+!3d_printable_parts/.gitkeep
+!3d_printable_parts/*.stl
+!3d_printable_parts/*.STL
+!3d_printable_parts/*.step
+!3d_printable_parts/*.STEP
+!3d_printable_parts/*.stp
+!3d_printable_parts/*.STP
+!3d_printable_parts/*.3mf
+!3d_printable_parts/*.f3d
